@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://suryanshii.com"),
   openGraph: {
     title: "Suryanshi Singh",
-    description: "Portfolio of Suryanshi Singh — projects, experience, and writing.",
+    description: "Welcome to my corner of the internet.",
     url: "https://suryanshii.com",
     siteName: "Suryanshi Singh",
   },

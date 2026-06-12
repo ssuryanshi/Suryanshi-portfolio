@@ -9,7 +9,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Suryanshi Singh ",
+  title: "Suryanshi Singh",
   description:
     "Final-year CSE (Data Science) student at MUJ. Business analytics, product strategy, and data-driven decision support.",
   metadataBase: new URL("https://suryanshii.com"),

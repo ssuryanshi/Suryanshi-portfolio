@@ -59,7 +59,7 @@ export const projects = [
       "Top 100 nationwide among 10,000+ teams — AWS AI for Bharat Hackathon.",
     metric: "Top 100 / 10,000+ teams",
     stack: ["Python", "AWS Lambda", "S3", "Bedrock"],
-    github: "https://github.com/ssuryanshi/CodeLens",
+    github: "https://github.com/ssuryanshi/CodeLens-AI",
     demo: "",
   },
 ];

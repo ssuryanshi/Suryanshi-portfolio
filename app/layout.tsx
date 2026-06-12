@@ -12,11 +12,11 @@ export const metadata: Metadata = {
   title: "Suryanshi Singh — Product · Analytics · Consulting",
   description:
     "Final-year CSE (Data Science) student at MUJ. Business analytics, product strategy, and data-driven decision support.",
-  metadataBase: new URL("https://ssuryanshi.com"),
+  metadataBase: new URL("https://suryanshii.com"),
   openGraph: {
     title: "Suryanshi Singh",
     description: "Product · Business Analytics · Consulting",
-    url: "https://ssuryanshi.com",
+    url: "https://suryanshii.com",
     siteName: "Suryanshi Singh",
   },
 };

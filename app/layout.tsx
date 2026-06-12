@@ -10,12 +10,11 @@ const jetbrains = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Suryanshi Singh",
-  description:
-    "Final-year CSE (Data Science) student at MUJ. Business analytics, product strategy, and data-driven decision support.",
+  description: "Portfolio of Suryanshi Singh — projects, experience, and writing.",
   metadataBase: new URL("https://suryanshii.com"),
   openGraph: {
     title: "Suryanshi Singh",
-    description: "Product · Business Analytics · Consulting",
+    description: "Portfolio of Suryanshi Singh — projects, experience, and writing.",
     url: "https://suryanshii.com",
     siteName: "Suryanshi Singh",
   },
